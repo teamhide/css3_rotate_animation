@@ -1,2 +1,2 @@
-# css3_rotate_animation
+# CSS3 Rotate Animation
 CSS3 rotate animation example
